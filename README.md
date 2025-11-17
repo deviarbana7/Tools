@@ -20,9 +20,21 @@
 5.Uiverse 
 
    https://uiverse.io/
+   
+6.Motion
+
+   https://motion.dev/
 
  **OTHER TOOLS**
 
 1.Edit PDF FREE WEB
 
    https://www.sejda.com/
+
+2.Lottie Files (animations)
+
+   https://lottiefiles.com/
+
+3.Build your own anything
+
+   https://github.com/codecrafters-io/build-your-own-x
