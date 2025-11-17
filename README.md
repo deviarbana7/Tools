@@ -1,5 +1,5 @@
 # Tools
-1. **Smooth Ui React with Tailwind CSS Components**
+1. Smooth Ui React with Tailwind CSS Components
    https://smoothui.dev/
    
 2.Fancy Components 
