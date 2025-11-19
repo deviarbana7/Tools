@@ -38,3 +38,7 @@
 3.Build your own anything
 
    https://github.com/codecrafters-io/build-your-own-x
+
+4.JPG/PNG to Webp
+
+   https://anywebp.com/jpg-to-webp
