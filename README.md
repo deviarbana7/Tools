@@ -54,3 +54,7 @@
 7.Public cloud (can be used with convex if you want to self host it)
 
    fly.io
+
+8.PDF OCR Recognize text via OCR and create searchable PDF files.
+
+   https://tools.pdf24.org/en/ocr-pdf
