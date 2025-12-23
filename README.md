@@ -58,3 +58,7 @@
 8.PDF OCR Recognize text via OCR and create searchable PDF files.
 
    https://tools.pdf24.org/en/ocr-pdf
+
+9. design websites and apps
+
+   https://stitch.withgoogle.com/
