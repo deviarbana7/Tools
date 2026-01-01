@@ -81,8 +81,8 @@
 
 14.Navbar Gallery (Dropdown styles):
 
-    https://www.navbar.gallery/type/dropd
-
+    https://www.navbar.gallery/type/dropdowns
+    
 15.Call-to-Action Gallery:
 
     https://www.cta.gallery/
