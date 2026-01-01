@@ -71,4 +71,36 @@
 
     https://coolors.co/
 
+12. Hero Section Gallery:
+    
+    https://supahero.io/
+
+13.Background Patterns for Hero Section:
+
+    https://heropatterns.com/
+
+14.Navbar Gallery (Dropdown styles):
+
+    https://www.navbar.gallery/type/dropd
+
+15.Call-to-Action Gallery:
+
+    https://www.cta.gallery/
+
+15.404 Pages Inspiration:
+
+    https://www.404s.design/
+
+16.Footer Gallery:
+
+    http://footer.design
+
+17.Icon Library:
+
+    https://iconshelf.com/
+
+18.Drawbridge (UI component inspiration):
+
+    https://github.com/breschio/drawbridge
+
     
