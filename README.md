@@ -66,3 +66,9 @@
 10. kurse falas
 
    https://fcsnew.net
+
+11. Colour palate generator
+
+    https://coolors.co/
+
+    
